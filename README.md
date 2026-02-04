@@ -33,15 +33,15 @@ Kısacası bu proje, yapay zekayı .NET projelerine nasıl entegre edebileceğim
 
 ## Anthropic Claude API
 
-- GPT-benzeri sohbet (Claude Sonnet 4)
+- Chatbot (Claude Sonnet 4)
 - PDF içerik özeti
 - Hazır prompt ile iş başvuru e-postası üretimi
 
 ## Google Gemini API
 
-- Soru–cevap (Gemini 2.5 Pro)
+- Chatbot (Gemini 2.5 Pro)
 - Rol Simülasyonu (psikolog, maç yorumcusu, yatırım uzmanı vb.)
-- Auto-Agent tarzı içerik/fikir planlayıcı
+- Auto-Agent içerik/fikir planlayıcı
 
 ## OpenAI API
 
@@ -73,17 +73,17 @@ Kısacası bu proje, yapay zekayı .NET projelerine nasıl entegre edebileceğim
 ## 🖼️ Ekran Görüntüleri
 
 <div align="center">
-  <img src="ProjectImages/Project-04.png" alt="Project-01" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-05.png" alt="Project-02" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-06.png" alt="Project-03" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-07.png" alt="Project-04" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-09.png" alt="Project-05" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-12.png" alt="Project-06" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-13.png" alt="Project-07" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-14.png" alt="Project-08" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-15.png" alt="Project-09" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-16.png" alt="Project-10" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-18.png" alt="Project-11" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-19.png" alt="Project-12" width="800" style="margin: 10px;">
-  <img src="ProjectImages/Project-20.png" alt="Project-13" width="800" style="margin: 10px;">
+  <img src="Images/Project-02-HuggingFaceSentimentAnalysis.png" alt="Project-01" width="800" style="margin: 10px;">
+  <img src="Images/Project-03-HuggingFaceTextSummarize.png" alt="Project-02" width="800" style="margin: 10px;">
+  <img src="Images/Project-04-HuggingFaceNamedEntityRecognition.png" alt="Project-03" width="800" style="margin: 10px;">
+  <img src="Images/Project-05.png" alt="Project-04" alt="Project-04" width="800" style="margin: 10px;">
+  <img src="Images/Project-06-ToxicMessageTest.png" alt="Project-05" width="800" style="margin: 10px;">
+  <img src="Images/Project-07-ClaudeChatbot.png" alt="Project-06" width="800" style="margin: 10px;">
+  <img src="Images/Project-08-ClaudePdfSummary.png" alt="Project-07" width="800" style="margin: 10px;">
+  <img src="Images/Project-09-ClaudeJobEmail.png" alt="Project-08" width="800" style="margin: 10px;">
+  <img src="Images/Project-10-ReplicateAIDrawImage.png" alt="Project-09" width="800" style="margin: 10px;">
+  <img src="Images/Project-16-GoogleGeminiAutoAgentPrompt.png" alt="Project-10" width="800" style="margin: 10px;">
+  <img src="Images/Project-17-OpenAICodeEditor.png" alt="Project-11" width="800" style="margin: 10px;">
+  <img src="Images/Project-18-StabilityAI.png" alt="Project-12" width="800" style="margin: 10px;">
+  <img src="Images/Project-20-OpenAISpeechChatbot.png" alt="Project-13" width="800" style="margin: 10px;">
 </div>
