@@ -1,0 +1,27 @@
+﻿using System.Net.Http.Headers;
+using System.Text;
+using System.Text.Json;
+
+Console.Write("Enter your text here: ");
+
+var apiKey = "your-api-key";
+var inputText = Console.ReadLine();
+
+var requestData = new
+{
+    inputs = inputText
+};
+
+var json = JsonSerializer.Serialize(requestData);
+var content = new StringContent(json, Encoding.UTF8, "application/json");
+
+using var client = new HttpClient();
+client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);
+
+
+var response = await client.PostAsync("https://router.huggingface.co/hf-inference/models/sshleifer/distilbart-cnn-12-6", content);
+
+var responseContent = await response.Content.ReadAsStringAsync();
+
+Console.WriteLine("🗒️ Text Summarize: ");
+Console.WriteLine(responseContent);
