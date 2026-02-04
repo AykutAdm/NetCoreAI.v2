@@ -82,8 +82,10 @@ Kısacası bu proje, yapay zekayı .NET projelerine nasıl entegre edebileceğim
   <img src="Images/Project-08-ClaudePdfSummary.png" alt="Project-07" width="800" style="margin: 10px;">
   <img src="Images/Project-09-ClaudeJobEmail.png" alt="Project-08" width="800" style="margin: 10px;">
   <img src="Images/Project-10-ReplicateAIDrawImage.png" alt="Project-09" width="800" style="margin: 10px;">
-  <img src="Images/Project-16-GoogleGeminiAutoAgentPrompt.png" alt="Project-10" width="800" style="margin: 10px;">
-  <img src="Images/Project-17-OpenAICodeEditor.png" alt="Project-11" width="800" style="margin: 10px;">
-  <img src="Images/Project-18-StabilityAI.png" alt="Project-12" width="800" style="margin: 10px;">
-  <img src="Images/Project-20-OpenAISpeechChatbot.png" alt="Project-13" width="800" style="margin: 10px;">
+  <img src="Images/Project-14-GoogleGeminiChatbot.png" alt="Project-10" width="800" style="margin: 10px;">
+  <img src="Images/Project-15-GoogleGeminiRoleSimulation.png" alt="Project-11" width="800" style="margin: 10px;">
+  <img src="Images/Project-16-GoogleGeminiAutoAgentPrompt.png" alt="Project-12" width="800" style="margin: 10px;">
+  <img src="Images/Project-17-OpenAICodeEditor.png" alt="Project-13" width="800" style="margin: 10px;">
+  <img src="Images/Project-18-StabilityAI.png" alt="Project-14" width="800" style="margin: 10px;">
+  <img src="Images/Project-20-OpenAISpeechChatbot.png" alt="Project-15" width="800" style="margin: 10px;">
 </div>
